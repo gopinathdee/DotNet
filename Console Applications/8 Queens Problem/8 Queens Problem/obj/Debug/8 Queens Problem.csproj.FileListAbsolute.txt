@@ -1,0 +1,9 @@
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\bin\Debug\8 Queens Problem.exe.config
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\bin\Debug\8 Queens Problem.exe
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\bin\Debug\8 Queens Problem.pdb
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\obj\Debug\8 Queens Problem.csprojAssemblyReference.cache
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\obj\Debug\8 Queens Problem.csproj.CoreCompileInputs.cache
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\obj\Debug\8 Queens Problem.exe
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\obj\Debug\8 Queens Problem.pdb
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\bin\Debug\Colorful.Console.dll
+H:\3 - Gopinath D\3 - Technical\Dot Net\Console Applications\8 Queens Problem\8 Queens Problem\obj\Debug\8 Queens Problem.csproj.CopyComplete
